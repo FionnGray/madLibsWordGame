@@ -1,2 +1,2 @@
 # madLibsWordGame
-Here's my first very simply game created with C#
+Here's my first very simply game created with C#.
